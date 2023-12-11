@@ -51,4 +51,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/paulrill/"><img src="https://img.shields.io/badge/-Paul%20Rill-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:paulrill2000@outlook.com"><img src="https://img.shields.io/badge/-paulrill2000@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://discordapp.com/users/186043250971377673"><img src="https://img.shields.io/badge/-pauldot.-6f85d3?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
