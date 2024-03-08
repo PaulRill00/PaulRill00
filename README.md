@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm studied Software-Engineering at the University of Applied Sciences Windesheim.\
+🎓 &nbsp;I studied Software-Engineering at the University of Applied Sciences Windesheim.\
 ✒️ &nbsp;I work for a company called [Print.one](https://print.one), where we make it easier to send Direct Mail.\
 ✍️ &nbsp;In my free time, I run a development team at [Damage Inc](https://dmginc.gg/).\
 ✉️ &nbsp;You can shoot me an email at paulrill2000@outlook.com! I'll try to respond as soon as I can.
@@ -15,12 +15,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=ea2845)&nbsp;
-![NextJS](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp#&logoColor=239120)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A?&logo=tailwindcss)&nbsp;
